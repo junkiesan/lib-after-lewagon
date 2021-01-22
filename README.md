@@ -60,6 +60,13 @@ Après avoir maitrisé le concept de REST jouez avec GraphQL pour query vos donn
 ## Figma
 Avant de commencer un projet, faites une maquette sur Figma, la plus complète possible.
 Incluez la charte graphique, les recherches d'images et de typographie. 
-Créez vos composants et leurs états en hover et active.  
+Créez vos composants et leurs états en hover et active.
+
+## Kitt
+Refaire des exos de chaques parties du programme du Wagon peut être super utile pour bien assimiler les concepts. Il est intéressant de se repencher sur chaques parties et de comprendre quelles compétences tirer.
+- Les bases de Ruby
+- Coder avec une vision Object Oriented Programming
+- Les bases de la DB du csv aux requêtes SQL (à développer avec des outils comme Postman ou Insomnia)
+- Faire du front et revoir le systeme de grid, comment faire de l'AJAX le lier à Rails, le concept de DOM qui est utile pour apprendre un framework JS et comment intégrer une librairie JS à un projet
 
 ## Lectures
