@@ -55,6 +55,7 @@ Après avoir maitrisé le concept de REST jouez avec GraphQL pour query vos donn
 - Gérez vos issues & pull requests avec Github Projects.
 - Pushez votre code sur Github pour montrer que vous codez activement. Cela ne veut pas dire pour autant qu'il faut coder tous les jours. Vous saurez toujours coder après un week-end de trois jours.
 - Créez vous un README avec le nom de votre compte Github, cela vous permettera de personnaliser votre profil.
+- Suivez d'autres développeurs sur Github pour découvrir de nouvelles gems ou de nouvelles librairies
 
 ## Figma
 Avant de commencer un projet, faites une maquette sur Figma, la plus complète possible.
