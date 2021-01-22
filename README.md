@@ -1,6 +1,13 @@
 # Après le Wagon
 Ressources pour aider les alumnis du Wagon souhaitant devenir dev junior
 
+## Relativiser
+
+Trouver un boulot c'est possible même aujourd'hui. Il faut continuer à coder à trouver de nouvelles idées et à kiffer.
+En sortant du Wagon vous pouvez complètement rivaliser avec les autres développeurs junior. 
+Je ne trouve plus l'étude mais 80% des développeurs embauchés en 2020 sortent de bootcamps et ce qui est principalement recherché est la motivation d'apprendre et de découvrir de nouveaux outils.
+Si vous hésitez entre dev et product, c'est plus simple de passer de product à dev que de dev à product.
+
 ## Organisation
 
 Le top serait de planifier le week-end ce que vous voulez apprendre la semaine et tenir un journal de bord permettant d'être témoin de votre avancée.
@@ -45,6 +52,8 @@ La documentation de Ruby est très bien faite et vous permet de voir les dernier
 
 ## Front-end
 Continuez à utiliser le preprocesseur *SASS* et essayez de coder des SPA en *mobile first*.
+Vous pouvez créer une compte sur [Dribbble](https://dribbble.com/) grosse communauté de designers où trouver des idées et où partager vos figmas, ça envoi du lours pour les recruteurs.
+Même si vous préférez le back et pensez être nul en design, ça s'apprend en regardant et en plus ça s'apprend vite !
 
 ## Katas
 Faites des katas sur [CodeWars](https://www.codewars.com/) c'est sympa au début mais ça peut vite venir lassant. Essayer quand même dans faire *3 ou 4 par jour*. Ce serait top d'arriver au kyu 6.
@@ -81,7 +90,7 @@ Refaire des exos de chaques parties du programme du Wagon peut être super utile
 
 ## Rails
 
-Pour aller plus loin dans la pratique de Ruby on Rails découvrez à quoi servent les [jobs](https://guides.rubyonrails.org/active_job_basics.html), les [services](https://www.toptal.com/ruby-on-rails/rails-service-objects-tutorial) et les [helpers](https://www.rubyguides.com/2020/01/rails-helpers/).
+Pour aller plus loin dans la pratique de *Ruby on Rails* découvrez à quoi servent les [*jobs*](https://guides.rubyonrails.org/active_job_basics.html), les [*services*](https://www.toptal.com/ruby-on-rails/rails-service-objects-tutorial) et les [*helpers*](https://www.rubyguides.com/2020/01/rails-helpers/).
 Il y a toujours des trucs à apprendre et c'est ça qui est cool.
 
 ## StackOverflow
@@ -93,10 +102,10 @@ Créez vous un compte et essayez de répondre aux problèmes de la communauté. 
 Pour faire du freelance faites jouer les réseaux et faites vous un compte sur [Malt](https://www.malt.fr/).
 
 Si vous chercher un CDI ou autre, voici une liste des sites que j'aime bien :
-  - [AngelList](https://angel.co/jobs) site regroupant des startups internationales
-  - [Welovedevs](https://welovedevs.com/app/fr/) sympa qui permet de faire son propre cv/portfolio hebergé gratuitement par le site
-  - [WTTJ](https://www.welcometothejungle.com/fr/) on ne le présente plus
-  - [StackOverflow](https://stackoverflow.com/jobs) ce sont les offres de boites qui ne passent pas par des agences
+  - [AngelList](https://angel.co/jobs): site regroupant des startups internationales
+  - [Welovedevs](https://welovedevs.com/app/fr/): sympa qui permet de faire son propre cv/portfolio hebergé gratuitement par le site
+  - [WTTJ](https://www.welcometothejungle.com/fr/): on ne le présente plus
+  - [StackOverflow](https://stackoverflow.com/jobs): ce sont les offres de boites qui ne passent pas par des agences
 
 
 ## Lectures
