@@ -14,6 +14,10 @@ Le top serait de planifier le week-end ce que vous voulez apprendre la semaine e
 Il ne faut pas rester bloqué sur des notions, s'il y a un problème contactez quelqu'un après avoir écumé ou non la toile.
 Découpez vos journées : le matin peut être dédiée aux katas et à l'apprentissage d'un nouvel outil ou framework/langage et l'après-midi à votre projet du moment.
 
+## Buddy
+
+Le bon plan serait de se mettre en binome avec un autre alumni souhaitant être dev. Cela permet de rester motivé et d'apprendre deux fois plus de choses en échangeant vos découvertes.
+
 ## Git
 Maintenant que les bases de *Git* sont apprises, il est temps de passer à l'étape supérieure et de voir tout ce que l'on peut faire avec [Git](https://www.atlassian.com/fr/git/tutorials)
 
