@@ -49,6 +49,7 @@ Approfondissez vos connaissances en [TDD](https://thoughtbot.com/upcase/fundamen
 ## Open Source
 Coder en open source est un bon moyen d'*augmenter son réseau et de gagner en crédibilité* face à un recruteur.
 Trouvez un projet sur lequel travailler en collaboration ou cherchez le label *"Good first issues"* sur Github.
+Voici un repo regroupant une mutlitude de projets Rails sur lesquels vous pouvez faire des PR [asyraffff's Open Source](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps)
 
 ## Ruby
 La documentation de Ruby est très bien faite et vous permet de voir les derniers ajouts qui ont été fait au langage.
